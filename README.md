@@ -35,13 +35,12 @@ Goodbye!
 
 2. Navigate to the project folder
 
-3. Copy the example environment file:
+3. Create your environment file:
 
-   * On Windows: Copy `.env.example` and rename it to `.env`
-   * On Mac/Linux:
-     cp .env.example .env
+   * Copy `.env.example`
+   * Rename it to `.env`
 
-4. Open the `.env` file and add your API key:
+4. Open `.env` and add your API key:
    API_KEY=your_api_key_here
 
 5. Install dependencies:
@@ -49,6 +48,7 @@ Goodbye!
 
 6. Run the chatbot:
    python main.py
+
 
 
 ## Important
