@@ -8,7 +8,6 @@ API_KEY = os.getenv("API_KEY")
 if not API_KEY:
     raise ValueError("API key not found. Please set it in .env")
 
-# use API_KEY here (DO NOT print it)
 from groq import Groq
 
 client = Groq(api_key=API_KEY)
