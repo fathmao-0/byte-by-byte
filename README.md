@@ -21,13 +21,16 @@ This project demonstrates:
 🤖 Groq Streaming Chatbot (type 'exit' to quit)
 
 You: hii
+
 Bot: It's nice to meet you. Is there something I can help you with or would you like to chat?
 
 You: how are u
+
 Bot: I'm doing well, thanks for asking. I'm a computer program, so I don't have feelings or emotions like humans do, but I'm functioning properly and ready to help you with any questions or tasks you may have. How about you? How's your day going?
 
 You: exit
-Goodbye!
+
+Bot:Goodbye!
 
 ## ⚙️ Setup Instructions
 
